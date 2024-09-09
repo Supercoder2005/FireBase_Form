@@ -29,13 +29,16 @@ Usage
 Insert Data :
           Enter the ID, Name, and Age in the respective fields.
           Click the "INSERT" button to add the data to the Firebase Realtime Database.
+          
 Find Data by ID :
           Enter the ID in the "Find by ID" section.
           Click the "FIND" button to fetch and display the name and age of the user.
+          
 Update Data :
           Enter the ID of the user you wish to update.
           Enter the new name and age.
           Click the "UPDATE" button to save the changes.
+          
 Remove Data :
           Enter the ID of the user you want to remove.
           Click the "REMOVE" button to delete the user from the Firebase Realtime Database.
