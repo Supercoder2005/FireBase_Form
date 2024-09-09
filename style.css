@@ -1,0 +1,94 @@
+body{
+    margin-top: 100px;
+    background-image: url("https://img.freepik.com/premium-photo/back-school-background-home-study-studentship-education-knowledge-homeschooling_108930-22196.jpg?size=626&ext=jpg&ga=GA1.1.444903362.1722089976&semt=ais_hybrid");
+    background-size: cover;
+}
+
+#box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#EnterDetails{
+    margin-left: 200px;
+    background-color:cadetblue ;
+    height: 50%;
+    width: 25%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: aqua;
+}
+#EnterDetails,h1{
+    padding-left: 20px;
+}
+#input{
+    padding-left: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.Enter{
+    border: 5px groove #000;
+    border: 5px ridge #000;
+    border: 5px inset #000;
+    border: 5px outset #000;
+}
+.button:hover{
+    background-color: rgb(150, 112, 231);
+    cursor: pointer;
+}
+
+#input,h4{
+    font-size: large;
+}
+#btn{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.button{
+    margin: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: cyan;
+    color: black;
+}
+
+#FindDetails{
+    margin: 150px;
+    margin-left: 200px;
+    background-color: cadetblue;
+    height: 340px;
+    width: 220px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: cyan;
+}
+#FindDetails,h1{
+    padding-left: 15px;
+}
+#find{
+    margin-left: 50px;
+    margin-top: 70 px;
+    background-color: cyan;
+    height: 30px;
+    width: 100px;
+    color: black;
+}
+#find:hover{
+    background-color: rgb(150, 112, 231);
+    cursor: pointer;
+}
+
+#findID{
+    margin-left: 10px;
+    margin-bottom: 30px;
+    border: 5px groove #000;
+    border: 5px ridge #000;
+    border: 5px inset #000;
+    border: 5px outset #000;
+
+}
