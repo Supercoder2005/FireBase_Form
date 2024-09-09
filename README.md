@@ -29,8 +29,7 @@ The project can be hosted on Firebase Hosting. Once the project is deployed, use
 
 ## Try It Out
 
-Visit the live form at: [https://form-4c6eb.web.app](#)  
-(Replace this with your actual link).
+Visit the live form at: https://form-4c6eb.web.app
 
 ## Usage
 
