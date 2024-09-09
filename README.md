@@ -51,7 +51,5 @@ Visit the live form at: https://form-4c6eb.web.app
 - **JavaScript**: To handle interactions with the Firebase Realtime Database.
 - **Firebase**: As the backend database for storing and managing user data.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
